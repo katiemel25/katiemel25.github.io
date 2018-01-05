@@ -2645,7 +2645,7 @@ img {max-width:600px}
 
 		.wrapper.style1 {
 			background-color: #21b2a6;
-			color: #c7ebe8;
+			color: #ffffff;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -2677,7 +2677,7 @@ img {max-width:600px}
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c7ebe8;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 label {
@@ -2698,7 +2698,7 @@ img {max-width:600px}
 
 			.wrapper.style1 input[type="checkbox"] + label,
 			.wrapper.style1 input[type="radio"] + label {
-				color: #c7ebe8;
+				color: #ffffff;
 			}
 
 				.wrapper.style1 input[type="checkbox"] + label:before,
